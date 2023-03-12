@@ -1,0 +1,30 @@
+div { 
+    background-color: rgb(3, 7, 248);
+    color:  red; border: 2px solid #05ea09f7 ;
+    margin: 5px;
+}
+.pon { 
+    background-color: rgb(3, 207, 248);
+    color:  red; border: 2px solid #33ea05f7 ;
+    margin: 5px;
+}
+body{
+  background: url(pon.jpg);
+
+}
+h3 {
+    background-color: yellow;
+    
+    border: 2px solid rgba(205, 245, 6, 0.822);
+    margin: 5px;
+}
+label {
+    background-color: yellowgreen;
+    color: yellow;
+}
+input {
+   size: 15px;
+}
+video {
+    margin-top: 10px;
+}
